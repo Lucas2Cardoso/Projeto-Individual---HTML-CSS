@@ -1,2 +1,2 @@
-# aula-html
-aula html-css
+# Projeto Individual
+HTML / CSS
